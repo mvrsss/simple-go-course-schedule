@@ -48,13 +48,13 @@ func GetConfig() *Config {
 
 ## API
 **/course**
-Markup : * ```GET```: Get all courses
-         * ```POST```: Create a new course
+* ```GET```: Get all courses
+* ```POST```: Create a new course
 
 **/course/:id**
-Markup : * ```GET```: Get a courses
-         * ```PUT```: Update a course
-         * ```DELETE```: Delete a course
+* ```GET```: Get a courses
+* ```PUT```: Update a course
+* ```DELETE```: Delete a course
          
 Post Parameters
 ```
